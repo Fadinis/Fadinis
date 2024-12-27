@@ -1,4 +1,11 @@
-### Oiiii, Fadini aqui!
+```
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Fafa here!");
+    System.out.println("Welcome to my portfolio");
+  }
+}
+```
 <div>
   <a href="https://github.com/Fadinis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadinis&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
