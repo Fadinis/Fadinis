@@ -8,8 +8,8 @@ public class Main {
 ```
 
 **Unlocking achievement:**
-- [ ] Java Engineer | Alura
-  ...
+- [ ] Computer Engineering | ESEG (2/10)
+- [ ] Java Engineer | Alura (💻📚)
 
 
 <div>
