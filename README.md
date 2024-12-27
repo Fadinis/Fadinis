@@ -7,7 +7,7 @@ public class Main {
 }
 ```
 
-**Unlocking achievements:**
+**🏆 - Unlocking achievements:**
 - [ ] Computer Engineering | ESEG (2/10)
 - [ ] Java Engineer | Alura (💻📚)
 
