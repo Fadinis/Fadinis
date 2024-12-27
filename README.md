@@ -21,7 +21,7 @@ public class Main {
   <img align="center" alt="Fafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Fafa-Git" height="30" width="40" src="https://raw.githubusecontent.com/devicon/devicon/master/icons/git/git.svg">
+  <img align="center" alt="Fafa-Git" height="30" width="40" src="https://raw.githubusecontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ##
