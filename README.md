@@ -7,8 +7,8 @@ public class Main {
 }
 ```
 
-# Unlocking achievement:
-- [] Java Engineer | Alura
+**Unlocking achievement:**
+- [ ] Java Engineer | Alura
   ...
 
 
